@@ -1,15 +1,19 @@
 
 
-# Application of Computer Vision in Analyzing Microscopy Images: A New Frontier in Predicting Activated Sludge Settling Characteristics
+# Prediction of Activated Sludge Settling Characteristics from Microscopy Images with Deep Convolutional Neural Networks and Transfer Learning
 
 
-Transfer learning or training deep NN from scratch for predicting activated sludge...
+This study presents an innovative computer vision-based approach to assess activated sludge-settling characteristics based on the morphological properties of flocs and filaments in microscopy images. Implementing the transfer learning of deep convolutional neural network (CNN) models, this approach aims to overcome the limitations of existing quantitative image analysis techniques. The offline microscopy image dataset was collected over two years, with weekly sampling at a full-scale industrial WWTP in Belgium. Multiple data augmentation techniques were employed to enhance the generalizability of the CNN models. Various CNN architectures, including Inception v3, ResNet18, ResNet152, ConvNeXt-nano, and ConvNeXt-S, were tested to evaluate their performance in predicting sludge settling characteristics. The sludge volume index (SVI) was used as the final prediction variable, but the method can easily be adjusted to predict any other settling metric of choice.
 
 <p align="center">
     <img src="diagram1.jpg" height="520px">
 </p>
 
+The results showed that the suggested CNN-based approach provides less labour-intensive, objective, and consistent assessments while transfer learning notably minimises the training phase, resulting in a generalizable system that can be employed in real-time applications. 
 
+<p align="center">
+    <img src="results.jpg" height="420px">
+</p>
 
 ## Usage
 
