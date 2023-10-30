@@ -6,7 +6,7 @@
 Transfer learning or training deep NN from scratch for predicting activated sludge...
 
 <p align="center">
-    <img src="figures/radam.png" height="420px">
+    <img src="diagram1.jpg" height="520px">
 </p>
 
 
@@ -17,6 +17,7 @@ Transfer learning or training deep NN from scratch for predicting activated slud
 ```
 python NN_training.py --help
 ```
+* !!! You will need a torch vision dataloader in ```dataset.py``` designed for your dataset.
 
 ## Requirements
 
