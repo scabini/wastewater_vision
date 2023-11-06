@@ -21,7 +21,7 @@ The results showed that the suggested CNN-based approach provides less labour-in
 ```
 python NN_training.py --help
 ```
-* !!! You will need a torch vision dataloader in ```dataset.py``` designed for your dataset.
+* !!! You will need a torch vision dataloader in ```dataset.py``` designed for your dataset. This file is omitted here since our dataset is not public.
 
 ## Requirements
 
