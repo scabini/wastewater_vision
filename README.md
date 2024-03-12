@@ -43,4 +43,12 @@ python NN_training.py --help
 
 If you use our code or methods, please cite the paper:
 
+```
+@article{borzooei2024prediction,
+  title={Prediction of Activated Sludge Settling Characteristics from Microscopy Images with Deep Convolutional Neural Networks and Transfer Learning},
+  author={Borzooei, Sina and Scabini, Leonardo and Miranda, Gisele and Daneshgar, Saba and Deblieck, Lukas and De Langhe, Piet and Bruno, Odemir and De Baets, Bernard and Nopens, Ingmar and Torfs, Elena},
+  journal={arXiv preprint arXiv:2402.09367},
+  year={2024}
+}
+```   
 
