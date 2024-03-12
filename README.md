@@ -43,6 +43,8 @@ python NN_training.py --help
 
 If you use our code or methods, please cite the paper:
 
+Borzooei, S., Scabini, L., Miranda, G., Daneshgar, S., Deblieck, L., De Langhe, P., ... & Torfs, E. (2024). Prediction of Activated Sludge Settling Characteristics from Microscopy Images with Deep Convolutional Neural Networks and Transfer Learning. arXiv preprint arXiv:2402.09367.
+
 ```
 @article{borzooei2024prediction,
   title={Prediction of Activated Sludge Settling Characteristics from Microscopy Images with Deep Convolutional Neural Networks and Transfer Learning},
