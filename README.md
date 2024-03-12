@@ -23,6 +23,8 @@ python NN_training.py --help
 ```
 * !!! You will need a torch vision dataloader in ```dataset.py``` designed for your dataset. This file is omitted here since our dataset is not public.
 
+ * However, you can download our [weights for ConvNeXt-nano here](https://drive.google.com/drive/folders/1mY77rGV0B2MxhwCmZ0B1mkp9S4J-r3d2?usp=sharing), allowing you to use our trained models on different data.
+
 ## Requirements
 
 * torch
