@@ -46,11 +46,14 @@ If you use our code or methods, please cite the paper:
 Borzooei, S., Scabini, L., Miranda, G., Daneshgar, S., Deblieck, L., De Langhe, P., ... & Torfs, E. (2024). Prediction of Activated Sludge Settling Characteristics from Microscopy Images with Deep Convolutional Neural Networks and Transfer Learning. arXiv preprint arXiv:2402.09367.
 
 ```
-@article{borzooei2024prediction,
-  title={Prediction of Activated Sludge Settling Characteristics from Microscopy Images with Deep Convolutional Neural Networks and Transfer Learning},
-  author={Borzooei, Sina and Scabini, Leonardo and Miranda, Gisele and Daneshgar, Saba and Deblieck, Lukas and De Langhe, Piet and Bruno, Odemir and De Baets, Bernard and Nopens, Ingmar and Torfs, Elena},
-  journal={arXiv preprint arXiv:2402.09367},
-  year={2024}
+@article{borzooei2024evaluation,
+  title={Evaluation of activated sludge settling characteristics from microscopy images with deep convolutional neural networks and transfer learning},
+  author={Borzooei, Sina and Scabini, Leonardo and Miranda, Gisele and Daneshgar, Saba and Deblieck, Lukas and Bruno, Odemir and De Langhe, Piet and De Baets, Bernard and Nopens, Ingmar and Torfs, Elena},
+  journal={Journal of Water Process Engineering},
+  volume={64},
+  pages={105692},
+  year={2024},
+  publisher={Elsevier}
 }
 ```   
 
